@@ -1,3 +1,0 @@
-NAME: SIDDA YAMUNA
-COURSE: BCA
-GitHub: I have learned creating and uploading a file in a repository.
